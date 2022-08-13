@@ -1,0 +1,8 @@
+Huge thanks to Modding by Kaupenjoe for the fantastic tutorials that helped me make my mod!
+Thank you to the creators at How to Make Everything for a lot of the information I used to make this mod as realistic as possible.
+
+All textures by music_crafter, the mod author.
+Some textures drew inspiration from other sources, including:
+
+Flint tools inspired by the textures used for DruidCraft's bone tools, done by VulpTheHorseDog (as far as I'm aware).
+Cotton crops draw heavily on Tomato crops from Farmer's Delight, art by vectorwing.

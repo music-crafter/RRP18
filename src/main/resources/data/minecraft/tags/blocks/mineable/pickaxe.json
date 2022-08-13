@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "rrp:tin_ore",
+    "rrp:deepslate_tin_ore",
+    "rrp:lead_ore",
+    "rrp:deepslate_lead_ore",
+    "rrp:rock_salt_block"
+  ]
+}

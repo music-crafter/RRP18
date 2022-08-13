@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:dead_bush",
+    "exoticbirds:nest",
+    "farmersdelight:straw",
+    "farmersdelight:tree_bark",
+    "nature_expansion:dead_grass",
+    "charcoal_pit:straw",
+    "projectvibrantjourneys:dry_grass",
+    "#forge:bark"
+  ]
+}

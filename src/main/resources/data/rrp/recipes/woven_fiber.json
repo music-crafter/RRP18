@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "wooden_sign",
+  "pattern": [
+    " #",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "complexoverhaul:plant_fiber"
+    }
+  },
+  "result": {
+    "item": "rrp:woven_fiber"
+  }
+}

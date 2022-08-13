@@ -1,0 +1,51 @@
+{
+
+  "item.rrp.raw_tin": "Raw Tin",
+  "item.rrp.raw_lead": "Raw Lead",
+  "item.rrp.plant_fiber": "Plant Fiber",
+  "item.rrp.charcoal_dust": "Charcoal Dust",
+  "item.rrp.chalk_dust": "Chalk Dust",
+  "item.rrp.salt": "Salt",
+  "item.rrp.rock_salt": "Rock Salt",
+  "item.rrp.quicklime": "Quicklime",
+  "item.rrp.tanning_solution": "Tanning Solution",
+  "item.rrp.lime_bucket": "Lime Solution Bucket",
+  "item.rrp.flatbread": "Flatbread",
+  "item.rrp.deer_hide": "Deer Hide",
+  "item.rrp.boar_hide": "Boar Hide",
+  "item.rrp.moose_hide": "Moose Hide",
+  "item.rrp.cow_hide": "Cow Hide",
+
+  "item.rrp.sugar_beet_seeds": "Sugar Beet Seeds",
+  "item.rrp.sugar_beet_crop": "Sugar Beet Crop",
+  "item.rrp.sugar_beet": "Sugar Beet",
+
+  "item.rrp.aspen_log": "Aspen Log",
+  "item.rrp.baobab_log": "Baobab Log",
+  "item.rrp.cypress_log": "Cypress Log",
+  "item.rrp.fir_log": "Fir Log",
+  "item.rrp.jacaranda_log": "Jacaranda Log",
+  "item.rrp.mahogany_log": "Mahogany Log",
+  "item.rrp.mangrove_log": "Mangrove Log",
+  "item.rrp.maple_log": "Maple Log",
+  "item.rrp.palm_log": "Palm Log",
+  "item.rrp.palo_verde_log": "Palo Verde Log",
+  "item.rrp.pine_log": "Pine Log",
+  "item.rrp.rainbow_eucalyptus_log": "Rainbow Eucalyptus Log",
+  "item.rrp.redwood_log": "Redwood Log",
+  "item.rrp.willow_log": "Willow Log",
+
+  "item.rrp.unfired_pick_head": "Unfired Pickaxe Head Cast",
+
+  "block.rrp.straw_bed": "Straw Bed",
+
+  "block.rrp.tin_ore": "Tin Ore",
+  "block.rrp.lead_ore": "Lead Ore",
+  "block.rrp.deepslate_lead_ore": "Deepslate Lead Ore",
+  "block.rrp.deepslate_tin_ore": "Deepslate Tin Ore",
+  "block.rrp.salt_block": "Salt Block",
+  "block.rrp.rock_salt_block": "Rock Salt Block",
+
+  "itemGroup.rrpmodtab": "RRP"
+
+}

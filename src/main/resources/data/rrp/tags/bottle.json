@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "rrp:ostrich_bottle",
+    "rrp:emu_bottle",
+    "rrp:cassowary_bottle",
+    "rrp:ceramic_bottle",
+    "rrp:gourd_bottle",
+    "minecraft:glass_bottle"
+  ]
+}

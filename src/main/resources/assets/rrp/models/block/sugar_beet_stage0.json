@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "rrp:block/sugar_beet_stage0"
+  }
+}

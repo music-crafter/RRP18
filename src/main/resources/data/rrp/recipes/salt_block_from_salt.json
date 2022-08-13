@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "salt",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "rrp:salt"
+    }
+  },
+  "result": {
+    "item": "rrp:salt_block"
+  }
+}

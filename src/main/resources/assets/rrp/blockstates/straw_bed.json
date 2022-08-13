@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "rrp:block/straw_bed" },
+    "facing=east": { "model": "rrp:block/straw_bed", "y": 90 },
+    "facing=south": { "model": "rrp:block/straw_bed", "y": 180 },
+    "facing=west": { "model": "rrp:block/straw_bed", "y": 270 }
+  }
+}

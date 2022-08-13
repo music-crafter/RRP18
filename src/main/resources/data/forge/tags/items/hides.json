@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "rrp:moose_hide",
+    "rrp:deer_hide",
+    "rrp:boar_hide",
+    "rrp:cow_hide",
+    "minecraft:rabbit_hide",
+    "betteranimalsplus:bear_skin_brown",
+    "betteranimalsplus:bear_skin_black",
+    "betteranimalsplus:bear_skin_kermode",
+    "betteranimalsplus:wolf_pelt_snowy",
+    "betteranimalsplus:wolf_pelt_timber",
+    "betteranimalsplus:wolf_pelt_black",
+    "betteranimalsplus:wolf_pelt_arctic",
+    "betteranimalsplus:wolf_pelt_brown",
+    "betteranimalsplus:wolf_pelt_red",
+    "alexsmobs:kangaroo_hide",
+    "untamedwilds:hide_bigcat_jaguar",
+    "untamedwilds:hide_bigcat_leopard",
+    "untamedwilds:hide_bigcat_lion",
+    "untamedwilds:hide_bigcat_panther",
+    "untamedwilds:hide_bigcat_puma",
+    "untamedwilds:hide_bigcat_snow_leopard",
+    "untamedwilds:hide_bigcat_tiger"
+  ]
+}
